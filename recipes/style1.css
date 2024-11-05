@@ -1,0 +1,32 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-weight: bolder;
+    color: black;
+}
+
+h2 {
+    color: darkblue;
+}
+
+p {
+    font-weight: 700;
+    font-style: normal;
+    font-size: x-large;
+}
+
+h3 {
+    color: blueviolet;
+
+}
+
+ol {
+    font-size: larger;
+    font-weight: 600;
+}
+
+ul {
+    color: darkred;
+}
