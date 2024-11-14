@@ -28,5 +28,9 @@ ol {
 }
 
 ul {
+    font-size: larger;
     color: darkred;
+}
+li {
+    margin: 15px auto;
 }
